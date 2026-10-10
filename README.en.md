@@ -81,6 +81,20 @@ The audit engine computes:
 * **Recovery Factor** (Net Profit / Max Drawdown);
 * **Sharpe & Sortino Ratios** annualized against the risk-free rate.
 
+### 3.1. 📊 Performance Visualizations, Equity Curves & Monte Carlo
+
+<div align="center">
+
+| Cumulative Dynamic Risk Equity Curve | 17-Year Historical Monte Carlo Simulation |
+|:---:|:---:|
+| <img src="docs/images/equity_curve_dynamic_risk.png" alt="Equity Curve" width="460"/> | <img src="docs/images/mc_eurusd_17years.png" alt="Monte Carlo Simulation" width="460"/> |
+
+| Annual Returns Breakdown (2008–2024) | Comparative Performance across 4 Execution Methods |
+|:---:|:---:|
+| <img src="docs/images/eurusd_isolated_years_chart.png" alt="Annual Returns" width="460"/> | <img src="docs/images/comparison_all_4_methods.png" alt="Methods Comparison" width="460"/> |
+
+</div>
+
 ---
 
 ## 4. Project Structure

@@ -81,6 +81,20 @@ flowchart TD
 * **Recovery Factor** = Итоговая доходность / Максимальная просадка;
 * **Коэффициенты Шарпа (Sharpe Ratio)** и **Сортино (Sortino Ratio)** при безрисковой ставке.
 
+### 3.1. 📊 Графики доходности, эквити и симуляции Монте-Карло
+
+<div align="center">
+
+| Кумулятивная кривая капитала (Equity Curve) | Симуляция Монте-Карло на 17-летней истории |
+|:---:|:---:|
+| <img src="docs/images/equity_curve_dynamic_risk.png" alt="Equity Curve" width="460"/> | <img src="docs/images/mc_eurusd_17years.png" alt="Monte Carlo Simulation" width="460"/> |
+
+| Доходность по изолированным годам (2008–2024) | Сравнение эффективности 4 методов исполнения |
+|:---:|:---:|
+| <img src="docs/images/eurusd_isolated_years_chart.png" alt="Annual Returns" width="460"/> | <img src="docs/images/comparison_all_4_methods.png" alt="Methods Comparison" width="460"/> |
+
+</div>
+
 ---
 
 ## 4. Структура репозитория
